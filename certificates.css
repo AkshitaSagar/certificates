@@ -1,0 +1,17 @@
+.image{
+    width: 490;
+    padding-left: 480px;
+    height: 650px;
+   
+}
+h2{
+    text-align: center;
+    padding-top: 45px;
+}
+body{
+    background-color: lightblue;
+}
+table{
+    width: 3px;
+    border-radius: 25px;
+}
